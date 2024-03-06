@@ -87,7 +87,8 @@ background: linear-gradient(90deg, rgba(36,36,86,1) 0%, rgba(59,0,91,1) 53%);
 
 #addmoney button{
     width: 30%;
-    padding: 8px 15px;
+    padding: 8px 0px ;
+    text-wrap: nowrap;
     border-radius: 5px ;
     background-color: #5F259F;
     border: none;
@@ -124,7 +125,8 @@ background: linear-gradient(90deg, rgba(36,36,86,1) 0%, rgba(59,0,91,1) 53%);
 
 #paymentdiv button{
     width: 30%;
-    padding: 8px 15px;
+    padding: 8px 0px ;
+    text-wrap: nowrap;
     border-radius: 5px ;
     background-color: #5F259F;
     border: none;
@@ -266,7 +268,8 @@ background: linear-gradient(90deg, rgba(36,36,86,1) 0%, rgba(59,0,91,1) 53%);
    
 #pin button{
     width: 30%;
-    padding: 8px 15px;
+    padding: 8px 0px ;
+    text-wrap: nowrap;
     border-radius: 5px ;
     background-color: #5F259F;
     border: none;
